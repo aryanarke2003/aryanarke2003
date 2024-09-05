@@ -6,8 +6,10 @@ My name is Arya Narke. I am a third year studying Computer Science at the Univer
 
 ## 🔧 Technologies & Tools
 
-- Python, C++, SQL, MATLAB, VBA, HTML & CSS
-- Power BI, Power Automate, Azure ML
+• **Programming Languages:** Python, C, C++, C#, SQL, JavaScript, MATLAB, HTML, CSS, LabView, PowerShell, VBA
+• **Cloud & DevOps:** Azure, GCP, AWS (EC2 & S3), Docker, Git, Power Platform, DevOps, Agile
+• **Data Engineering & ML:** Pandas, NumPy, PySpark, Scikit, Matplotlib, MongoDB, Jupyter Lab, Databricks, LLM, ETL
+• **Technologies/Frameworks:** Linux, Flask, IBM Db2 Warehouse, Power BI, API, React, Tailwind CSS, Node.js
 
 ## 📫 How to Reach Me
 
