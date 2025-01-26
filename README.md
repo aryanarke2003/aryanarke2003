@@ -22,7 +22,7 @@ My name is Arya Narke. I am a third year studying Computer Science at the Univer
 
 ### GitHub Stats
 
-[!Arya Narke's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanarke2003&theme=algolia)](https://github.com/aryanarke2003)
+[![Arya Narke's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanarke2003&theme=algolia)](https://github.com/aryanarke2003)
 
 ### Top Languages
 
