@@ -18,13 +18,28 @@ My name is Arya Narke. I am a third year studying Computer Science at the Univer
 - [LinkedIn](https://www.linkedin.com/in/aryanarke/)
 - Email: narkean@mail.uc.edu
 
+## My Stats
+
+### GitHub Stats
+
+[!Arya Narke's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanarke2003&theme=algolia)](https://github.com/aryanarke2003)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanarke2003&layout=compact&theme=algolia)](https://github.com/aryanarke2003)
+
+### Contributions
+
+[![Arya Narke's contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanarke2003&theme=dracula)](https://github.com/aryanarke2003)
+
+### Streak
+
+[![Arya Narke's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanarke2003&theme=algolia)](https://github.com/aryanarke2003)
+
 ## ⚡ Fun Fact
 
 I love cats! 🐾
 
-## 🚀 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
 
 
 
