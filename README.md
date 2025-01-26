@@ -3,8 +3,8 @@
 ## About Me
 
 My name is Arya Narke. I am a third year studying Computer Science at the University of Cincinnati. Outside of school, I like to draw, hangout with friends, and take care of my cats!
-![Profile Views]
-(https://komarev.com/ghpvc/?username=aryanarke2003&color=green)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryanarke2003&color=green)
 
 ## 🔧 Technologies & Tools
 
